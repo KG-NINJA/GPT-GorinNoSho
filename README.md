@@ -1,7 +1,10 @@
+A collection of GPT-5 strategy prompts modified from the official documentation
+https://platform.openai.com/docs/guides/latest-model
+
 # 🥷 五輪の忍術書 ～GPT-5 忍法大全・絵巻版～
 
 **編纂者：KGNINJA**  
-**流派：AI忍術・風花虎古流**  
+**流派：AI忍術・風花虎古流**  FuwaCoco ryu
 **版：初伝～皆伝 合冊版**
 
 ---
